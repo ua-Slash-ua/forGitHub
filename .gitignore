@@ -20,3 +20,6 @@ Thumbs.db
 # Віртуальні середовища
 venv/
 .env/
+
+# Паролі
+config.json
