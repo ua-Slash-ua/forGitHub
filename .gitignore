@@ -1,0 +1,22 @@
+# Папка IDE
+.idea/
+
+# Python кеші
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+
+# Конфіденційні дані
+.env
+*.env
+
+# Віртуальні середовища
+venv/
+.env/
