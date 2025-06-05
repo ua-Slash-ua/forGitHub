@@ -21,5 +21,4 @@ Thumbs.db
 venv/
 .env/
 
-# Паролі
-config.json
+
